@@ -15,7 +15,7 @@ wget -qO- https://raw.githubusercontent.com/23xvx/Termux-Proot-Custom-Installer/
 ### 2. Via Custom Proot (Recommend)
 Paste following command into Termux.
 ``` bash
-wget -q0-https://raw.githubusercontent.com/23xvx/Termux-Proot-Custom-Installer/main/wget-proot.sh | sh
+wget -qO- https://raw.githubusercontent.com/23xvx/Termux-Proot-Custom-Installer/main/wget-proot.sh | sh
 ```
 
 ### Changelog
